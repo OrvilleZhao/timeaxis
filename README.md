@@ -1,2 +1,2 @@
-# timeaxis
-The timeaxis is made for my programe. I use jquery in the process.
+# 时间轴
+这个时间轴插件是我在项目中使用而制作的一个。初始化时指向的是当前时间，启动后以一秒一小时的间隔递增。可以以1小时和24小时不同的选择进行前进和回退
